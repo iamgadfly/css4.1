@@ -65,14 +65,14 @@ p{
 .foto {
 	width: 841px;
 	height: 561px;
-	margin-left: 150px;
+	margin-left: 190px;
 }
 
 .foto1 {
 	width: 821px;
 	height: 541px;
 	margin-top: -525px;
-	margin-left: 203px;
+	margin-left: 243px;
 }
 
 .p1{
@@ -168,6 +168,30 @@ p{
 	color: #273d46;
 }
 
+.foto3, .foto2{
+	position: relative;
+}
+
 .foto2{
 	margin-left: 240px;
+}
+
+.foto3{
+	right: 5px;
+	bottom: -56px;
+	margin-left: 430px;
+	z-index: 1;
+}
+
+.text1{
+	position: relative;
+	margin-right: 790px;
+	bottom: 80px;
+	font-family: Arial;
+	font-size: 14px;
+	line-height: 40px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	color: #ffffff;
 }
